@@ -14,3 +14,4 @@ Desktop application for generating fake cryptocurrency balances and transactions
 - **Dark/Light Theme Support**
 
 
+<img width="1441" height="813" alt="cryptoflash" src="https://github.com/user-attachments/assets/01551443-84e1-406a-bbd9-0dbcfdd342c3" />
