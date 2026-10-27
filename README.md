@@ -13,4 +13,4 @@ Desktop application for generating fake cryptocurrency balances and transactions
 - **Toast Notifications**: Confirmation alerts for completed transactions
 - **Dark/Light Theme Support**
 
-- 
+
